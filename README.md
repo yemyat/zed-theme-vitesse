@@ -47,7 +47,7 @@ Vitesse is a minimal, elegant theme designed for comfortable long-term use with 
 ## Credits
 
 - **Original Theme**: [Anthony Fu (@antfu)](https://github.com/antfu)
-- **Zed Port**: [Jeff Min](https://github.com/yemyatthu1990)
+- **Zed Port**: [Jeff Min](https://github.com/yemyat)
 
 ## License
 

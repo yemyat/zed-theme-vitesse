@@ -4,7 +4,7 @@ description = "A minimal, elegant theme with dark, light, and black variants - p
 version = "0.1.0"
 schema_version = 1
 authors = ["Jeff Min <yemyat@gmail.com>"]
-repository = "https://github.com/yemyatthu1990/zed-theme-vitesse"
+repository = "https://github.com/yemyat/zed-theme-vitesse"
 
 [themes]
 themes = ["themes/vitesse.json"]
