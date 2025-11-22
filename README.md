@@ -41,8 +41,6 @@ Vitesse is a minimal, elegant theme designed for comfortable long-term use with 
 ## Related Projects
 
 - [Vitesse VSCode Theme](https://github.com/antfu/vscode-theme-vitesse) - Original theme by @antfu
-- [Vitesse Neovim](https://github.com/antfu/vscode-theme-vitesse) - Neovim port (in the same repo)
-- [Vitesse Terminal Themes](https://github.com/antfu/vscode-theme-vitesse) - Terminal themes (Ghostty, etc.)
 
 ## Credits
 
